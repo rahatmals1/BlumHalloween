@@ -2,12 +2,12 @@
 // @name         Blum Autoclicker
 // @version      2.4
 // @namespace    Violentmonkey Scripts
-// @author       RahatMals
+// @author       rahatmals
 // @match        https://telegram.blum.codes/*
 // @grant        none
 // @icon         https://cdn.prod.website-files.com/65b6a1a4a0e2af577bccce96/65ba99c1616e21b24009b86c_blum-256.png
-// @downloadURL  https://github.com/rahatmals1/BlumHalloween.git
-// @updateURL    https://github.com/rahatmals1/BlumHalloween.git
+// @downloadURL  https://github.com/rahatmals1/BlumHalloween/blob/main/blum-autoclicker.js
+// @updateURL    https://github.com/rahatmals1/BlumHalloween/blob/main/blum-autoclicker.js
 // @homepage     https://github.com/rahatmals1
 // ==/UserScript==
 
