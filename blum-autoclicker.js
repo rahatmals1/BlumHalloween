@@ -2,7 +2,7 @@
 // @name         Blum Autoclicker
 // @version      2.4
 // @namespace    Violentmonkey Scripts
-// @author       mudachyo
+// @author       RahatMals
 // @match        https://telegram.blum.codes/*
 // @grant        none
 // @icon         https://cdn.prod.website-files.com/65b6a1a4a0e2af577bccce96/65ba99c1616e21b24009b86c_blum-256.png
